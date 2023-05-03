@@ -5,7 +5,7 @@ int main(){
 num_result, denom_result ;
 	/* Read each fraction */
 	printf("Please provide the first numerator:\n");
-	scanf("%d",numerator1);
+	scanf("%d",&numerator1);
 	printf("Please provide the first denominator:\n");
 	scanf("%d",&denominator1);
  	printf("Please provide the second numerator:\n");
